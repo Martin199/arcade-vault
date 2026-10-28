@@ -37,3 +37,8 @@ No hay framework de tests configurado todavía.
 - **Tailwind CSS v4** cargado vía el loader `@tailwindcss/turbopack` declarado en `turbopack.rules` (no hay `postcss.config` ni `tailwind.config`). Los tokens de tema se definen en `app/globals.css` con `@theme inline`.
 - Los layouts/pages usan los tipos globales generados `LayoutProps<"/">` / `PageProps<"/ruta">` (de `.next/types`), no tipos de props escritos a mano.
 - Alias de imports: `@/*` → raíz del repo.
+
+
+## Skills
+
+usa siempre el /frontend-desing skill
