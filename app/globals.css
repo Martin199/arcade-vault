@@ -242,6 +242,8 @@ a { color: inherit; text-decoration: none; }
   font-family: var(--pixel);
   font-size: 10px;
   letter-spacing: 0.16em;
+  text-align: center;
+  text-decoration: none;
   background: transparent;
   color: var(--ink);
   border: 1px solid var(--cyan);
